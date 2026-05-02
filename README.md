@@ -1,6 +1,6 @@
 # Hi, I'm Doug Metz 👋
 
-**IAM Engineer | Automation Specialist**
+**Senior IAM Analyst | Automation Specialist**
 
 I really like doing things as efficiently / correctly as possible without compromising my personal standards at all costs :D
 
@@ -18,7 +18,7 @@ I really like doing things as efficiently / correctly as possible without compro
 ---
 
 ### 📫 Connect with me
-* **Role:** IAM Engineer (Healthcare Sector)
+* **Role:** Senior IAM Analyst
 * **Focus:** Making systems more secure and automated, one script at a time.
 * **Website:** https://www.dougmetz.xyz
 * **LinkedIn** https://www.linkedin.com/in/dou9m/
