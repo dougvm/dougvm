@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Doug Metz 👋
 
-<!--
-**dougvm/dougvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IAM Engineer | Automation Specialist**
 
-Here are some ideas to get you started:
+I really like doing things as efficiently / correctly as possible without compromising my personal standards at all costs :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+* **Languages:** PowerShell, C#, Python
+* **Identity:** Access Management (Lifecycles, Business & IT Processes / Policies), PAM (Delinea), IGA (NetWrix, Okta, SailPoint), O365, AD, SIEMs, Healthcare Applications
+* **Interests:** Systems Optimization, Open Source Productivity Tools, Identity Security, Data Privacy, Cybersecurity
+
+---
+
+### 🚀 Projects & Contributions
+* **Doug's Tools** - PowerShell-based tools for managing identities.
+* **IAM-OCD** - C# implementation for corporate domain diagnostics/monitoring.
+
+---
+
+### 📫 Connect with me
+* **Role:** IAM Engineer (Healthcare Sector)
+* **Focus:** Making systems more secure and automated, one script at a time.
+* **Website:** https://www.dougmetz.xyz
+* **LinkedIn** https://www.linkedin.com/in/dou9m/
